@@ -1,6 +1,1 @@
-test
-test
-tesssst
-
-
-
+system.our.println("hello , world");
